@@ -94,6 +94,9 @@ MCA Major Project
 
 ## Project Screenshots
 
+### AWS VPC
+![VPC](screenshots/vpc.png)
+
 ### AWS EC2 Instance
 ![EC2](screenshots/ec2.png)
 
