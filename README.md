@@ -108,4 +108,4 @@ MCA Major Project
 
 ## Architecture Diagram
 
-![Architecture](screenshots/architecture-diagram.png)
+![Architecture](screenshots/architecture-diagram.png.png)
