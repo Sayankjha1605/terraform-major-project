@@ -98,7 +98,7 @@ MCA Major Project
 ![EC2](screenshots/ec2.png)
 
 ### S3 Backend
-![S3](screenshots/s3.png)
+![S3](screenshots/s3bucket.png)
 
 ### DynamoDB Locking
-![DynamoDB](screenshots/dynamodb.png)
+![DynamoDB](screenshots/dblock.png)
