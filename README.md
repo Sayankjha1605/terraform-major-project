@@ -94,6 +94,10 @@ MCA Major Project
 
 ## Project Screenshots
 
+## Architecture Diagram
+
+![Architecture](screenshots/architecture-diagram.png.png)
+
 ### AWS VPC
 ![VPC](screenshots/vpc.png)
 
@@ -106,6 +110,3 @@ MCA Major Project
 ### DynamoDB Locking
 ![DynamoDB](screenshots/dblock.png)
 
-## Architecture Diagram
-
-![Architecture](screenshots/architecture-diagram.png.png)
