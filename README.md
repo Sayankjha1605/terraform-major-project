@@ -105,3 +105,7 @@ MCA Major Project
 
 ### DynamoDB Locking
 ![DynamoDB](screenshots/dblock.png)
+
+## Architecture Diagram
+
+![Architecture](screenshots/architecture-diagram.png)
